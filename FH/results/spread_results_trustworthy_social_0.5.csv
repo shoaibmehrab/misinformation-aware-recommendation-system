@@ -1,0 +1,7 @@
+experiment,threshold,top_k,spread_lt_30_iter,spread_lt_final,spread_icm_30_iter,spread_icm_final,spread_npt_30_iter,spread_npt_final
+trustworthy_social,0.5,5,0.0,18.85945246022937,0.0,23.592304846466888,0.0,18.869700332963372
+trustworthy_social,0.5,10,0.0,18.530973815102563,0.0,23.371151395568713,0.0,18.557302585604468
+trustworthy_social,0.5,15,0.0,19.003447348064437,0.0,23.806881243063266,0.0,19.001547102545995
+
+
+
