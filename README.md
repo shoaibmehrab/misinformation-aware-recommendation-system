@@ -1,4 +1,4 @@
-# Misinformation-Aware Recommendation System
+# Misinformation Aware Recommendation Algorithms with Trustworthy User Information
 
 This repository contains code and experiment artifacts for a misinformation-aware social recommendation framework on two datasets:
 
@@ -196,3 +196,13 @@ This repository already includes many precomputed `results/` and `seeds/` files 
 ## Citation
 
 If you use this codebase in academic work, please cite your corresponding paper or report for the misinformation-aware recommendation framework.
+
+```bibtex
+@article{ahmed2026misinformation,
+  title={Misinformation Aware Recommendation Algorithms with Trustworthy User Information},
+  author={Ahmed, Md Shoaib and Pathak, Royal and Spezzano, Francesca},
+  journal={ACM Transactions on Management Information Systems},
+  year={2026},
+  publisher={ACM New York, NY}
+}
+```
